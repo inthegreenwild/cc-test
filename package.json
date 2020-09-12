@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "commitizen": "^4.2.1",
     "cz-conventional-changelog": "3.3.0",
